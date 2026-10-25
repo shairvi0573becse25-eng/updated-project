@@ -1,0 +1,2 @@
+/* React mount layer: visual styling remains in the original stylesheet. */
+#root { min-height: 100vh; }
